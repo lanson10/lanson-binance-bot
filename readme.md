@@ -1,4 +1,4 @@
-# [your_name] Binance Futures Bot
+# Lanson Binance Futures Bot
 
 ## Setup
 1. Create virtualenv and install deps:
